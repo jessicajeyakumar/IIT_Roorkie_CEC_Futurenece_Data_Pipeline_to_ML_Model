@@ -1,0 +1,9 @@
+ID,Resolution Status,Approval Status,Priority,Type,Source,Sub-Category,Total Cost,Total Quantity,Category,Impact,Item Category,Urgency,Created Date
+INC-1001571,Within SLA,Approved,High,Incident,Yammer,Workspace Admin & Facilities,5.52,3,Changes,Medium,PyCharm,Low,2025-06-22
+INC-1001574,Within SLA,Approved,High,Incident,Yammer,Workday,0.38,6,Changes,Low,SSO Intergartion,Low,2025-06-22
+INC-1001586,SLA Violated,Approved,High,Incident,AWS CloudWatch,CRM AGT,0.03,4,Changes,Low,baikal-euc-prod,High,2025-06-25
+INC-1001587,SLA Violated,Approved,High,Incident,Feedback Widget,Exclusions,9.69,6,Changes,Low,Awards,High,2025-06-25
+INC-1001592,SLA Violated,Approved,High,Incident,Chatbot,SDR,3.25,5,Changes,Low,Support Access,High,2025-06-25
+INC-1001595,SLA Violated,Approved,High,Incident,Slack,Phishing,8.77,8,Changes,Low,Zift Account Transfer,High,2025-06-25
+INC-1001602,Within SLA,Approved,High,Incident,Yammer,IT Data Services,8.72,1,Changes,High,PROJECT CREATION,Low,2025-06-26
+INC-1001604,Within SLA,Approved,High,Incident,Yammer,MRE Central OB,8.5,6,Changes,Low,Industry & Sub Industry Changes,Low,2025-06-26

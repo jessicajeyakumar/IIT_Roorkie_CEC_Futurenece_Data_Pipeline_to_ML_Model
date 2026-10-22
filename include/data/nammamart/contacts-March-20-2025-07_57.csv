@@ -1,0 +1,9 @@
+﻿Active,First Name,Last Name,Title,Primary Email,Secondary Emails,Work Phone,Mobile Phone,Department,Can see all tickets from this department,Reporting Manager Email,Address,Time Zone,Time Format,Language,Mark as VIP,Location,Background Information,Extn
+true,Jack,,Manager,jack@freshservice.com,"",,,"",false,,,Eastern Time (US & Canada),12h,en,false,,,
+true,Andrea,Jose,,andrea@freshservice.com,"",,,"",false,jessica.jeyakumar@freshworks.com,,Eastern Time (US & Canada),12h,en,false,,,
+true,test-account-hk2,,,it@test-account-hk2.freshcmdb.com,"",,,"",false,,,Eastern Time (US & Canada),12h,en,false,,,
+true,test-account-hk5,,,it@test-account-hk5.freshcmdb.com,"",,,"",false,,,Eastern Time (US & Canada),12h,en,false,,,
+true,Laura,Noda,,lauranordasample@gmail.com,"",,,"",false,,,Eastern Time (US & Canada),12h,en,false,,,
+true,Asdfghjkl,,,asdfghjkl@mail.com,"",,,"",false,,,Eastern Time (US & Canada),12h,en,false,,,
+true,Asdfg,,,asdfg@mail.com,"",,,"",false,,,Eastern Time (US & Canada),12h,en,false,,,
+true,Sdf,,,sdf@mail.com,"",,,"",false,,,Eastern Time (US & Canada),12h,en,false,,,
